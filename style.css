@@ -4,7 +4,7 @@
   padding-bottom: 15px;
 }
 .middle{
-  padding-left: 14%;
+  padding-left: 15%;
 }
 .buttom{
     padding-left: 45%;
@@ -13,20 +13,25 @@
 
 .forward{
   width: 75px;
+  height: 25px;
 }
 .left{
   width: 75px;
+  height: 25px;
 }
 .stop{
+  height: 25px;
   width: 75px;
   border-color: red;
   background-color: red;
   color: white;
 }
 .right{
+  height: 25px;
   width: 75px;
 }
 .backward{
+  height: 25px;
   width: 75px;
   padding-right: 0px;
 }
