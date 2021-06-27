@@ -26,7 +26,7 @@
   function insert($_sq){
     global $connection;
     if($connection->query($_sq)){
-      header("Refresh: 0; URL=https://faisalmvc.github.io/Test/index.html");
+      header("Refresh: 0; URL=https://faisalmvc.github.io/Hosting-Responesive-Page/index.html");
     }else{
       echo "There is a problem ". $connection->error ." go back and try agine litter.";
     }
